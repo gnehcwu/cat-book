@@ -7,10 +7,10 @@ A practice project based on flutter, you can
 - read further information on wikipedia page
 
 ## Screenshots
-![the cat book](./the-cat-book.gif "the cat book")
+<img src="the-cat-book.gif" alt="screenshot" width="300"/>
 
 ## Getting Started
-Please refer the [Flutter Documentation](https://flutter.dev/docs) for more details.
+Please read the [Flutter Documentation](https://flutter.dev/docs) for more details.
 
 ## Data source
 [Thecatapi](https://thecatapi.com/)
